@@ -1,0 +1,7 @@
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\bin\Debug\12.13(hesh-tablytsya).exe.config
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\bin\Debug\12.13(hesh-tablytsya).exe
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\bin\Debug\12.13(hesh-tablytsya).pdb
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\obj\Debug\12.13(hesh-tablytsya).csproj.AssemblyReference.cache
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\obj\Debug\12.13(hesh-tablytsya).csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\obj\Debug\12.13(hesh-tablytsya).exe
+D:\Visual Studio projects\12.13(hesh-tablytsya)\12.13(hesh-tablytsya)\obj\Debug\12.13(hesh-tablytsya).pdb
